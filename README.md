@@ -48,7 +48,7 @@ python3 AllIntronSize.py
 * Tomoyuki Ohno
 * Yasunori Aizawa
 
-* E-mail
+* E-mail: 
 akase.t.aa@m.titech.ac.jp
 
 # Reference
