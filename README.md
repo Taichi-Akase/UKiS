@@ -44,5 +44,5 @@ python3 AllIntronSize.py
 * E-mail
 
 
-#　License
+# License
 何かあれば書いておく
