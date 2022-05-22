@@ -4,8 +4,13 @@
 #https://note.nkmk.me/python-os-getcwd-chdir/
 #あとはpandasとmatplotlibが導入されたpython3にて実行が可能です
 
+#追記
 #AllIntronSize.py:56: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
 #上記警告文のため59行のIntron_All.appendをpd.concatに変更。20220522_TA
+#pd.concatでエラー吐いたので一旦元に戻す。
+#実行の結果、2つのcsvは得られたが、boxplot作成時に次のエラー
+#ValueError: whis must be a float or list of percentiles
+#引数の型が違うらしい。
 
 import pandas as pd
 import os
