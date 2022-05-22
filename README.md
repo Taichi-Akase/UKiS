@@ -8,7 +8,7 @@
 Refseqを元に解析を行う。
 特徴としては、自分の興味の対象となる遺伝子が、分布のどこに位置するのかを図示することができる。
 
-# Result demo
+# Result Image
 
 
 # Requirement
