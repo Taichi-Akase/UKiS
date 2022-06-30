@@ -5,10 +5,10 @@ This program calculates the length distribution of the first introns and all int
 The Refseq transcript information is stored in the Source_Data directory. Alternatively, new data downloaded by yourself from refseq will also be supported.  
 
 
-# Result Image
+## Result Image
 <img src="https://github.com/Taichi-Akase/UKiS/blob/main/Sample_Images/IntronSize.png" alt="Sample Image" title="Sample Image" width="200">
 
-# Requirement
+## Requirement
 
 It requires an environment capable of running python3 and its two modules, matplotlib and pandas.  
 
@@ -19,7 +19,7 @@ It requires an environment capable of running python3 and its two modules, matpl
 * matplotlib
 * pandas
 
-# Installation
+## Installation
 
 Install the necessary modules with the following commands.  
 
@@ -28,7 +28,7 @@ pip3 install matplotlib
 pip3 install pandas
 ```
 
-# Usage
+## Usage
 
 
 ```bash
@@ -37,10 +37,10 @@ cd UKiS
 python3 IntronSizeDistribution.py
 ```
 
-# Notes
+## Notes
 
 
-# Authors
+## Authors
 * Taichi Akase
   * E-mail: akase.t.aa@m.titech.ac.jp
 * Kono Syunya
@@ -48,9 +48,9 @@ python3 IntronSizeDistribution.py
 * Yasunori Aizawa
 
 
-# Reference  
+## Reference  
 T. Ohno, T. Akase, S. Kono hogehogehogehoge  
 doi:  
 
-# License  
+## License  
 
