@@ -6,7 +6,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-data_path = "./source_data/RefSeq.csv"
+data_path = "./Source_Data/RefSeq.csv"
 temp_df = pd.read_csv(data_path)
 
 # ID, exon coordinates and strand information are retrieved and stored in list.
