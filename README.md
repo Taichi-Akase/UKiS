@@ -16,8 +16,9 @@ It requires an environment capable of running python3 and its two modules, matpl
 * Refseq.csv
 
 ### Python packages
-* matplotlib
-* pandas
+#### Python 3.8.9  
+* matplotlib (Version: 3.5.1)
+* pandas (Version: 1.4.1)
 
 ## Installation
 
