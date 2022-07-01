@@ -7,7 +7,7 @@ The Refseq transcript information is stored in the Source_Data directory. Altern
 In addition to drawing a boxplot, add a dashed line indicating the intron length of a specific gene, in this case <i>TP53</i>.  
 
 ## Result Image
-<img src="https://github.com/Taichi-Akase/UKiS/blob/main/Sample_Images/IntronSize.png" alt="Sample Image" title="Sample Image" width="200">
+<img src="/Sample_Images/IntronSize.png" alt="Sample Image" title="Sample Image" width="200">
 
 ## Requirement
 
