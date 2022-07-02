@@ -45,7 +45,7 @@ python3 IntronSizeDistribution.py
 ## Authors
 * Taichi Akase
   * E-mail: akase.t.aa@m.titech.ac.jp
-* Kono Syunya
+* Shunya Kono
 * Tomoyuki Ohno
 * Yasunori Aizawa
 
