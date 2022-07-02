@@ -4,7 +4,7 @@ This program calculates the length distribution of the first introns and all int
 
 The Refseq transcript information is stored in the Source_Data directory. Alternatively, new data downloaded by yourself from refseq will also be supported.  
 
-In addition to drawing a boxplot, add a dashed line indicating the intron length of a specific gene, in this case <i>TP53</i>.  
+In addition to drawing a boxplot, user can add a dashed line indicating the intron length of a specific gene, in this case <i>TP53</i>.  
 
 ## Result Image
 <img src="/Sample_Images/IntronSize.png" alt="Sample Image" title="Sample Image" width="200">
