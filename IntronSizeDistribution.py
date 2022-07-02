@@ -66,7 +66,7 @@ ax.spines["bottom"].set_linewidth(spines)
 ax.spines["right"].set_linewidth(spines)
 
 # Visualizing the line of TP53 1st intron length
-TP53 = 10753 # Length of TP53 1st intron
+TP53 = 10754 # Length of TP53 1st intron
 bp = ax.hlines(TP53, 0, 3, "black", linestyles='dashed')
 ax.set_xticklabels(['1st introns','all introns'])
 
