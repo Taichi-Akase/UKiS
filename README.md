@@ -51,8 +51,9 @@ python3 IntronSizeDistribution.py
 
 
 ## Reference  
-T. Ohno, T. Akase, S. Kono hogehogehogehoge  
-doi:  
+T. Ohno <i>et al. bioRxiv</i> (2022)  
+Biallelic and gene-wide genomic substitution for endogenous intron and retroelement mutagenesis in human cells  
+doi: https://doi.org/10.1101/2022.03.09.482138  
 
 ## License  
 
